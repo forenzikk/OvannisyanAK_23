@@ -13,4 +13,7 @@ int main() {
 	printf("\nРезультат = %d", c);
 
 	printf("\nGood job!"); //new line
+
+	printf("Good afternoon!!!");
+	printf("The end");
 }
