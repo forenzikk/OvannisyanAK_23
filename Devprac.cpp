@@ -11,4 +11,6 @@ int main() {
 	scanf_s("%d", &b);
 	c = a + b;
 	printf("\nРезультат = %d", c);
+
+	printf("\nGood job!"); //new line
 }
